@@ -1,10 +1,3 @@
-package main;
-
-import model.*;
-import view.*;
-import controller.*;
-import utils.*;
-
 import javax.swing.*;
 import java.awt.*;
 

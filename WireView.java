@@ -1,6 +1,3 @@
-package view;
-
-import model.Wire;
 import java.awt.*;
 
 public class WireView {
